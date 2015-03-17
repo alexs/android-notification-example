@@ -24,6 +24,7 @@ proguard/
 
 # Log Files
 *.log
+<<<<<<< HEAD
 
 # Log Files
 *.log
@@ -40,3 +41,5 @@ Thumbs.db
 
 # Android Studio
 .idea
+=======
+>>>>>>> 7940d85bb2954385c09ed63125a4e4ae787b6251
