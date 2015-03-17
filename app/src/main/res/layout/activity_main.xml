@@ -1,0 +1,13 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical" >
+
+<Button
+    android:id="@+id/btnNotification"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Launch notification"
+    android:layout_marginTop="@dimen/abc_text_size_large_material" />
+
+</LinearLayout>
